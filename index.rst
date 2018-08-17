@@ -16,7 +16,7 @@ STONE Official Documentation
    introduction
    masternode
    glossary
-
+   FAQ
 
 Indices and tables
 ==================
