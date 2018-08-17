@@ -10,6 +10,7 @@ Welcome to stone-docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
 
 
 Indices and tables
