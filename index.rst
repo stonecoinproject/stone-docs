@@ -9,6 +9,9 @@ Welcome to stone-docs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
+   
+   README
 
    introduction
 
