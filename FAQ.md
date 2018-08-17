@@ -1,4 +1,4 @@
-Introduction
+FAQ
 -------
 
 ### What is STONE?

@@ -1,4 +1,4 @@
-Introduction
+Masternode
 -------
 
 ### What is STONE?

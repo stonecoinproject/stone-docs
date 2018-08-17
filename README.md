@@ -1,4 +1,6 @@
 stone-docs
 -------
 
-All the official documentation for STONE. Can be viewed at docs.stonecoin.rocks
+### STONE Official Doc
+
+The documentation is available at http://docs.stonecoin.rocks/

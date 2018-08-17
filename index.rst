@@ -3,17 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to stone-docs's documentation!
+STONE Official Documentation
 ======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    :glob:
-   
+
    README
 
    introduction
+   masternode
+   glossary
 
 
 Indices and tables

@@ -1,4 +1,4 @@
-Introduction
+Glossary
 -------
 
 ### What is STONE?
