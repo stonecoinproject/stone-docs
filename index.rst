@@ -13,10 +13,12 @@ STONE Official Documentation
 
    README
 
-   introduction
-   masternode
-   glossary
+   Introduction
+   Masternode
    FAQ
+   Presskit
+   Glossary
+
 
 Indices and tables
 ==================
