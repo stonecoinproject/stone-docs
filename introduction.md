@@ -1,5 +1,5 @@
 Introduction
-=
+-------
 
 ### What is STONE?
 
