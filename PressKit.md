@@ -1,5 +1,5 @@
 PressKit
-=
+-------
 
 ### What is STONE?
 
