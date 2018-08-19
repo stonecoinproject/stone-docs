@@ -159,3 +159,10 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+
+#Add the Markdown parser to the source_parsers configuration variable in your
+#Sphinx configuration file
+
+source_parsers = {
+   '.md': 'recommonmark.parser.CommonMarkParser',
+}

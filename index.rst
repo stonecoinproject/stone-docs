@@ -16,5 +16,5 @@ Contents:
    introduction
    masternode
    FAQ
-   presskit
+   PressKit
    glossary
