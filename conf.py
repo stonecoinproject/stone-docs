@@ -77,12 +77,8 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'pyramid'
-#html_theme = 'alabaster'
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = 'guzzle_sphinx_theme'
 
 # Register the theme as an extension to generate a sitemap.xml
-extensions.append("guzzle_sphinx_theme")
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
