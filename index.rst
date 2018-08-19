@@ -4,25 +4,17 @@
    contain the root `toctree` directive.
 
 STONE Official Documentation
-======================================
+==================================================
+
+Contents:
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    :glob:
 
-   README
-
    Introduction
    Masternode
    FAQ
    Presskit
    Glossary
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
