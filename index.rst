@@ -13,8 +13,8 @@ Contents:
    :caption: Contents:
    :glob:
 
-   Introduction
-   Masternode
+   introduction
+   masternode
    FAQ
-   Presskit
-   Glossary
+   presskit
+   glossary
